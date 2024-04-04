@@ -1,2 +1,2 @@
 # hello
-hello world written in brackets code editor with exapmle of execution
+hello world written in brackets code editor with example of execution
